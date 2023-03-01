@@ -1,4 +1,4 @@
-policyNumber,monthEarned,amountEarned
+policy_number,monthEarned,amountEarned
 PN0000,2020-05,55.89
 PN0000,2020-06,98.63
 PN0000,2020-07,101.92
